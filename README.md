@@ -8,6 +8,7 @@ Este espacio refleja mi proceso de aprendizaje, combinando teoría y práctica p
 Incluye ejemplos variados de código básico, tales como:
 
 - **Suma:** el programa basico para empezar, ejercicio Basico.
+- **Promedio de notas:** solicita al usuario ingresar varias calificaciones y calcula el promedio final.
 
 ## Objetivo
 
