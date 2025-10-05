@@ -9,6 +9,7 @@ Incluye ejemplos variados de código básico, tales como:
 
 - **Suma:** el programa basico para empezar, ejercicio Basico.
 - **Promedio de notas:** solicita al usuario ingresar varias calificaciones y calcula el promedio final.
+- **Juego de adivinanza:** el programa genera un número aleatorio y el usuario debe adivinarlo.
 
 ## Objetivo
 
